@@ -1,6 +1,6 @@
 package com.company;
 
-public class Switch {
+public class Lec2Switch {
     public static void main(String[] args) {
         int number = 2;
         switch (number) {

@@ -1,6 +1,6 @@
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Lecc2 {
+public class Lec2 {
 
     public static void main(String[] args) {
 
